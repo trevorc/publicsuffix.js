@@ -1,0 +1,6 @@
+{ "name": "publicsuffix"
+, "description": "Public Suffix parser for JavaScript"
+, "version": "0.1.0"
+, "author": "Trevor Caira"
+, "main": "./publicsuffix.js"
+}
